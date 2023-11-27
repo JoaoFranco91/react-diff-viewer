@@ -115,9 +115,9 @@ class DiffViewer extends React.Component<
 	public constructor(props: ReactDiffViewerProps) {
 		super(props);
 
-		this.state = {
-			expandedBlocks: [],
-		};
+		//this.state = {
+		//	expandedBlocks: [],
+		//};
 	}
 
 	/**
